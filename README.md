@@ -1,1 +1,1 @@
-# springer-submissions-portal-tests
+portal-tests
